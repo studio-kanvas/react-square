@@ -51,6 +51,3 @@ Compatible with every evergreen browser.
 
 Iconspace. [Stylish Dashboard UI Kit for Various Need](https://iconspace.co/product/square-dashboard-ui-kit/). Made with a unique style using rounded corner shape & modern color scheme. Make it looks dynamic and matches with the current and future design styles.
 
-## License
-
-Licensed under [MIT](https://github.com/heysafronov/square-react-dashboard/blob/master/LICENSE).
